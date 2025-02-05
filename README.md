@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello , My name is Juan Carlos 👋
 
-<!--
-**Jcyern/Jcyern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ I am a computer science student at the University of Havana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on https://github.com/Jcyern/Corredor-de-Laberintos-_2024-2025
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Instagram : @Jcyern  Gmail: juancarlosyernoespinosa@gmail.com
+- 😄 Pronouns: He/his
+
+
+
+
+
+
+
+
