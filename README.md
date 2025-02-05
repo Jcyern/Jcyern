@@ -10,7 +10,7 @@
 - 📫 How to reach me: 
     Instagram : https://www.instagram.com/jcyern/  
     Gmail: juancarlosyernoespinosa@gmail.com
-- 😄 Pronouns: He/his
+
 
 
 
