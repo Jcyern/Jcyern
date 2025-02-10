@@ -5,4 +5,4 @@
 - ✉️ Mail: juancarlosyernoespinosa@gmail.com
 - 📷 Instagram : [Jcyern]( https://www.instagram.com/jcyern/  )
 
-![Jcyern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcyern&show_icons=true&theme=algolia)
+![Jcyern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcyern&show_icons=true&theme=great-gatsby)
