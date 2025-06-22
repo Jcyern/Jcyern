@@ -1,5 +1,5 @@
 
-### Salut! ,  I'm Juan Carlos 👋 <br> <br>- 👨🏻‍💻 Studying [Computer Science](https://matcom.in/) at the University of Havana <br>- 🔭 I’m currently working on https://github.com/Jcyern/Corredor-de-Laberintos-_2024-2025<br>- ✉️ Mail: juancarlosyernoespinosa@gmail.com<br>- 📷 Instagram : [Jcyern]( https://www.instagram.com/jcyern/  )
+### Salut! ,  I'm Juan Carlos 👋 <br> <br>- 👨🏻‍💻 Studying [Computer Science](https://matcom.in/) at the University of Havana <br>-  ✉️ Mail: juancarlosyernoespinosa@gmail.com<br>- 📷 Instagram : [Jcyern]( https://www.instagram.com/jcyern/  )
 
 
 ## 🌐 Socials:
